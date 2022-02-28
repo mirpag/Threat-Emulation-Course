@@ -8,7 +8,7 @@ coverY: 0
 
 For detecting behavior, as your controls work and block the attack, make a note of that. Then create a playbook so you know and learn how to detect that quickly. Create playbooks that can look for the activity, and alert you to say: "we noticed XYZ threat active behavior", so it's very specific to you. What is actually going on? Then you remove that control, and then emulate a little bit further until you get to the the ultimate goal.&#x20;
 
-Your event recording devices, logs, Sims, EDRs, and any kind of intrusion detection systems you have are probably lit up. If not, that's fine as well. If you want an exercise with 20 steps, and you want to detect five, that's fine. You now know you need to configure your systems to detect the other 15. It's just how that is.&#x20;
+Your event recording devices, logs, SEIMs, EDRs, and any kind of intrusion detection systems you have are probably lit up. If not, that's fine as well. If you want an exercise with 20 steps, and you want to detect five, that's fine. You now know you need to configure your systems to detect the other 15. It's just how that is.&#x20;
 
 If you don't know who your threat actors are, and if you're just monitoring to be monitoring for the most common stuff - that's one thing. You're going to see with Caldera Mitre that as its performance is threat emulation, it can emulate a simulate behavior of a regular user. It looks just like normal user behavior. So it's hard to detect. That's something that adversaries really do. They will attack your network while you're working during the day so activity doesn't look so abnormal. Your logs and your Sims are going to be, tested, essentially.&#x20;
 
