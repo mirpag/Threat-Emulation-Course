@@ -19,11 +19,13 @@
   * [Threat Emulation & Threat Intelligence](threat-emulation/how-does-this-work/threat-emulation-and-threat-intelligence.md)
 * [Destructive v. Non-Destructive](threat-emulation/destructive-v.-non-destructive.md)
 * [Detecting & Emulating Behavior](threat-emulation/detecting-and-emulating-behavior.md)
+* [Resources](threat-emulation/resources.md)
+
+## Mitre Att\&ck
+
+* [APT34 commands](mitre-att-and-ck/apt34-commands.md)
+* [Resources](mitre-att-and-ck/resources.md)
 
 ## Give us feedback!
 
 * [Feedback Form](give-us-feedback/feedback-form.md)
-
-## Resources
-
-* [Resources for Threat Emulation & Threat Intelligence](resources/resources-for-threat-emulation-and-threat-intelligence.md)
