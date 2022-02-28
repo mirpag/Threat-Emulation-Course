@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx0ZWNofGVufDB8fHx8MTY0NTk5MDg4Mg&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Destructive v. Non-Destructive
 
 This gets into a destructive and non destructive because the antivirus or EDR tool may block Mimicatz, so it never gets to actually run and execute. As a result, you don't know how Mimicatz will really behave in your organization, if a threat actor is able to bypass or disable your antivirus, or your EDR tool. So you're going to remove or disable your antivirus program and EDR temporarily, because you have to pretend that the threat actor knows how to disable and bypass your defenses. That's all.&#x20;

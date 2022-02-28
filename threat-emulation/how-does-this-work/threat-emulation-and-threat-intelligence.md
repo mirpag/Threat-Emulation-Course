@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx0ZWNofGVufDB8fHx8MTY0NTk5MDg4Mg&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Threat Emulation & Threat Intelligence
 
 But the threat emulation process, the plan is developed based on intelligence resources. That's why you want to ensure that you're extracting the relevant information from your sources. Ensure that it has been disseminated from a reliable and trusted source. If possible, have a mechanism to provide feedback. Your plan is based on either threat intel from an external report or - especially for a SOC analyst - you may know of threats going on that target a specific organization. With that information you have based on the logs and the behavior you are detecting, you can create a heat map, apply that and create a playbook.

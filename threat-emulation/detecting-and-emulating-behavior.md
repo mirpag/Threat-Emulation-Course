@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx0ZWNofGVufDB8fHx8MTY0NTk5MDg4Mg&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Detecting & Emulating Behavior
 
 For detecting behavior, as your controls work and block the attack, make a note of that. Then create a playbook so you know and learn how to detect that quickly. Create playbooks that can look for the activity, and alert you to say: "we noticed XYZ threat active behavior", so it's very specific to you. What is actually going on? Then you remove that control, and then emulate a little bit further until you get to the the ultimate goal.&#x20;
