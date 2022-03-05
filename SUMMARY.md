@@ -24,6 +24,9 @@
 ## Mitre Att\&ck
 
 * [Overview](mitre-att-and-ck/overview.md)
+* [Mitre Att\&ck Framework](mitre-att-and-ck/mitre-att-and-ck-framework/README.md)
+  * [Tactics](mitre-att-and-ck/mitre-att-and-ck-framework/tactics.md)
+  * [Navigating the Att\&ck Matrix](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix.md)
 * [APT34 commands](mitre-att-and-ck/apt34-commands.md)
 * [Resources](mitre-att-and-ck/resources.md)
 
@@ -36,7 +39,7 @@
 * [Create Legal Warning Banner Ability](labs/create-legal-warning-banner-ability.md)
 * [Create Adversary Profile](labs/create-adversary-profile.md)
 * [Create Legal Warning Operation](labs/create-legal-warning-operation.md)
-* [Test File Association for README  that the ransom creates](labs/test-file-association-for-readme-that-the-ransom-creates.md)
+* [Test File Association for README that the ransom creates](labs/test-file-association-for-readme-that-the-ransom-creates.md)
 * [Create File Association README Ability](labs/create-file-association-readme-ability.md)
 * [Testing the Ransomware Simulation on your own](labs/testing-the-ransomware-simulation-on-your-own.md)
 * [Running the 'Full' Threat Operation](labs/running-the-full-threat-operation.md)
