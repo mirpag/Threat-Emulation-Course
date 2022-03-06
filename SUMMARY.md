@@ -26,7 +26,9 @@
 * [Overview](mitre-att-and-ck/overview.md)
 * [Mitre Att\&ck Framework](mitre-att-and-ck/mitre-att-and-ck-framework/README.md)
   * [Tactics](mitre-att-and-ck/mitre-att-and-ck-framework/tactics.md)
-  * [Navigating the Att\&ck Matrix](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix.md)
+  * [Navigating the Att\&ck Matrix - Reconnaissance ](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-reconnaissance.md)
+  * [Navigating the Att\&ck Matrix - Resource Development](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-resource-development.md)
+  * [Navigating the Att\&ck Matrix - Initial Access](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-initial-access.md)
 * [APT34 commands](mitre-att-and-ck/apt34-commands.md)
 * [Resources](mitre-att-and-ck/resources.md)
 
