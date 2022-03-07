@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHx0ZWNofGVufDB8fHx8MTY0NjU5NDQzNA&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Mitre Att\&ck Framework
 
 We're going to look at the Mitre Att\&ck framework. The Mitre Att\&ck framework is really, almost a standard these days. By all means, I'm not gonna say it is the standard, but it helps to track and map out the behavior of adversaries based on their tactics, techniques, and procedures. Those are, as we saw with Bianco's Pyramid of Pain is a top level that makes it very difficult for the adversary to hide their tracks. The tools might change, the hashes may change, the IP addresses and domains may change, but the behaviors don't change much.&#x20;

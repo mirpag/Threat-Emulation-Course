@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHx0ZWNofGVufDB8fHx8MTY0NjU5NDQzNA&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Navigating the Att\&ck Matrix - Reconnaissance&#x20;
 
 &#x20;Let's look at what each one of these are. In the process, we'll start to navigate the attack framework.&#x20;

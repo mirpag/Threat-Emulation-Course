@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHx0ZWNofGVufDB8fHx8MTY0NjU5NDQzNA&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Navigating the Att\&ck Matrix - Resource Development
 
 So let's hop back over to the Att\&ck framework. We have resource development. Whether you have methods that they use in order to start to plan their attack, the adversary is trying to establish resources they can use to support operations. They take the reconnaissance information, analyze it, and then start to developing methods in which they can use to carry out their attack. As you can see, during the reconnaissance phase they can find compromised accounts, for example. Or what they found made them able to determine access to email accounts. Maybe there was a password file out on the public web server. Or they're able to compromise the infrastructure using other information that was found. Let's say they have a DNS server that was vulnerable  or a cloud based server that was vulnerable.
