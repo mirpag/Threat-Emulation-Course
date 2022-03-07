@@ -33,8 +33,9 @@
   * [Navigating the Att\&ck Matrix - Persistence and Exfiltration](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-persistence-and-exfiltration.md)
   * [Navigating the Att\&ck Matrix - Privilege Escalation](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-privilege-escalation.md)
   * [Navigating the Att\&ck Matrix - Defense Evasion](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-defense-evasion.md)
-  * [Page 2](mitre-att-and-ck/mitre-att-and-ck-framework/page-2.md)
-  * [Page 3](mitre-att-and-ck/mitre-att-and-ck-framework/page-3.md)
+  * [Navigating the Att\&ck Matrix - Credential Access](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-credential-access.md)
+  * [Navigating the Att\&ck Matrix - Discovery](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-discovery.md)
+  * [Page 1](mitre-att-and-ck/mitre-att-and-ck-framework/page-1.md)
 * [APT34 commands](mitre-att-and-ck/apt34-commands.md)
 * [Resources](mitre-att-and-ck/resources.md)
 
