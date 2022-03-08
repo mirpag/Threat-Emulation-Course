@@ -30,14 +30,24 @@
   * [Navigating the Att\&ck Matrix - Resource Development](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-resource-development.md)
   * [Navigating the Att\&ck Matrix - Initial Access](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-initial-access.md)
   * [Navigating the Att\&ck Matrix - Execution](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-execution.md)
-  * [Navigating the Att\&ck Matrix - Persistence and Exfiltration](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-persistence-and-exfiltration.md)
+  * [Navigating the Att\&ck Matrix - Persistence](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-persistence.md)
   * [Navigating the Att\&ck Matrix - Privilege Escalation](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-privilege-escalation.md)
   * [Navigating the Att\&ck Matrix - Defense Evasion](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-defense-evasion.md)
   * [Navigating the Att\&ck Matrix - Credential Access](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-credential-access.md)
   * [Navigating the Att\&ck Matrix - Discovery](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-discovery.md)
-  * [Page 1](mitre-att-and-ck/mitre-att-and-ck-framework/page-1.md)
-* [APT34 commands](mitre-att-and-ck/apt34-commands.md)
+  * [Navigating the Att\&ck Matrix - Lateral Movement](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-lateral-movement.md)
+  * [Navigating the Att\&ck Matrix - Collection](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-collection.md)
+  * [Navigating the Att\&ck Matrix - Command and Control](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-command-and-control.md)
+  * [Navigating the Att\&ck Matrix - Exfiltration](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-exfiltration.md)
+  * [Navigating the Att\&ck Matrix - Impact](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-impact.md)
+  * [Navigating the Att\&ck Matrix - Wrap-up](mitre-att-and-ck/mitre-att-and-ck-framework/navigating-the-att-and-ck-matrix-wrap-up.md)
 * [Resources](mitre-att-and-ck/resources.md)
+
+## Att\&ck Navigator
+
+* [Page 1](att-and-ck-navigator/page-1.md)
+* [APT34 commands](att-and-ck-navigator/apt34-commands.md)
+* [Resources](att-and-ck-navigator/resources.md)
 
 ## Labs
 
