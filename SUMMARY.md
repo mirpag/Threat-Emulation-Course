@@ -62,6 +62,7 @@
 * [Create File Association README Ability](labs/create-file-association-readme-ability.md)
 * [Testing the Ransomware Simulation on your own](labs/testing-the-ransomware-simulation-on-your-own.md)
 * [Running the 'Full' Threat Operation](labs/running-the-full-threat-operation.md)
+* [Wrap Up](labs/wrap-up.md)
 
 ## Give us feedback!
 
