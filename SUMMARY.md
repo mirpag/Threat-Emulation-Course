@@ -45,7 +45,6 @@
 
 ## Att\&ck Navigator
 
-* [Page 1](att-and-ck-navigator/page-1.md)
 * [APT34 commands](att-and-ck-navigator/apt34-commands.md)
 * [Resources](att-and-ck-navigator/resources.md)
 
@@ -62,6 +61,7 @@
 * [Create File Association README Ability](labs/create-file-association-readme-ability.md)
 * [Testing the Ransomware Simulation on your own](labs/testing-the-ransomware-simulation-on-your-own.md)
 * [Running the 'Full' Threat Operation](labs/running-the-full-threat-operation.md)
+* [Emulate step1.ps1 from the PYSA Threat Intelligence Report](labs/emulate-step1.ps1-from-the-pysa-threat-intelligence-report.md)
 * [Wrap Up](labs/wrap-up.md)
 
 ## Give us feedback!
