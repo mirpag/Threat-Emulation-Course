@@ -6,8 +6,6 @@ coverY: 0
 
 # Testing Windows Connection
 
-1.
-
 {% embed url="https://youtu.be/vBwvuf5D01M" %}
 
 In this video, we'll be testing our connection from our Windows machine and our threat emulation host.
