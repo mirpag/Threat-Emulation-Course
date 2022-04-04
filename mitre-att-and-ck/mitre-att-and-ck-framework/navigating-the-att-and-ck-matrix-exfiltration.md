@@ -8,4 +8,4 @@ coverY: 0
 
 Exfiltration. This is the process after they have collected data. Now they are going to steal it or remove it from the organization. These are the various techniques that are used in order to exfiltrate the data.
 
-![](<../../.gitbook/assets/exfiltration1 (1).PNG>)
+![](../../.gitbook/assets/exfiltration1.PNG)

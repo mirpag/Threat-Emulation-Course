@@ -18,7 +18,7 @@ Look at this command and scripted interpreter. This is a very common one that's,
 
 Here are your mitigations.&#x20;
 
-![](../../.gitbook/assets/mitagations3.PNG)
+![](<../../.gitbook/assets/mitagations3 (1).PNG>)
 
 Here are your detections.&#x20;
 
