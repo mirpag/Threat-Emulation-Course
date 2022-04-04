@@ -56,7 +56,6 @@
 * [Testing Custom Legal Warning Banner](labs/testing-custom-legal-warning-banner.md)
 * [Create Legal Warning Banner Ability](labs/create-legal-warning-banner-ability.md)
 * [Create Adversary Profile](labs/create-adversary-profile.md)
-* [Create Legal Warning Operation](labs/create-legal-warning-operation.md)
 * [Test File Association for README that the ransom creates](labs/test-file-association-for-readme-that-the-ransom-creates.md)
 * [Create File Association README Ability](labs/create-file-association-readme-ability.md)
 * [Testing the Ransomware Simulation on your own](labs/testing-the-ransomware-simulation-on-your-own.md)
