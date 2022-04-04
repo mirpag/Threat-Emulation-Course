@@ -60,8 +60,8 @@
 * [Test File Association for README that the ransom creates](labs/test-file-association-for-readme-that-the-ransom-creates.md)
 * [Create File Association README Ability](labs/create-file-association-readme-ability.md)
 * [Testing the Ransomware Simulation on your own](labs/testing-the-ransomware-simulation-on-your-own.md)
-* [Emulate step1.ps1 from the PYSA Threat Intelligence Report](labs/emulate-step1.ps1-from-the-pysa-threat-intelligence-report/README.md)
-  * [Running the 'Full' Threat Operation](labs/emulate-step1.ps1-from-the-pysa-threat-intelligence-report/running-the-full-threat-operation.md)
+* [Emulate step1.ps1 from the PYSA Threat Intelligence Report](labs/emulate-step1.ps1-from-the-pysa-threat-intelligence-report.md)
+* [Running the 'Full' Threat Operation](labs/running-the-full-threat-operation.md)
 * [Wrap Up](labs/wrap-up.md)
 
 ## Give us feedback!
