@@ -6,11 +6,11 @@ coverY: 0
 
 # Navigating the Att\&ck Matrix - Discovery
 
-Then we have discovery. As part of the process for enumerating the organization, discovery means that in order to start to figure out what other systems you have in organization, the users, devices, etc. that can have many purposes. One it could be to maintain or try to maintain persistence on other systems, find other systems that they can compromise to escalate privileges, or find out where your sensors are and evade those. To gain credential access, they can find another system that they can compromise and potentially get admin access to. Then, they can dump credentials.&#x20;
+Discovery is when the threat actors begin to enumerate or 'discover' information about the host that was compromised or the network where the host resides. Information such as running processes and services, user/group accounts, domain information, etc.  All of it can be used for a variety of purposes.  The threat actor can harvest credentials and gain access to multiple accounts that were discovered to maintain persistence or gain access to data that allows them to achieve their goal.  Software that is installed can be used to determine if vulenrabilties could allow obtaining privileged access to a compromised host..&#x20;
 
 ![](../../.gitbook/assets/discovery.PNG)
 
-Every process in one of these tactics here, you know, it depends on the attack group. Not all are going to perform the same actions. So that discovery may have different purposes. And again, here are the techniques that they use for discovery.&#x20;
+Every process in one of these tactics here depends on the attack group. Not all are going to perform the same actions so discovery may have different purposes. Here are the techniques that they use for discovery.&#x20;
 
 ![](../../.gitbook/assets/discovery\_techniques.PNG)
 
