@@ -8,4 +8,6 @@ coverY: 0
 
 Then the impact. This is the more interesting one. This is typically a more destructive type of malicious code, where it's going to cause some type of impact to the system. If you look at the different techniques here, there's several things that can occur. Defacements were really popular in their early in the late 90s and early 2000s. They still occur, but not as prevalent or widely spread in the news coverage as it used to be. Wiping disks can be even more damaging to the organization.
 
+The best example of malware with the goal of causing an "impact" to the organization is ransomware.
+
 ![](../../.gitbook/assets/impact.PNG)
