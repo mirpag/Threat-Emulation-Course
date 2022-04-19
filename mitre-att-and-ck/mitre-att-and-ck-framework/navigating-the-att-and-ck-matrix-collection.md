@@ -10,6 +10,6 @@ Collection is when they discover information on a system, or get credential acce
 
 ![](../../.gitbook/assets/collection.PNG)
 
-You have different techniques that are performed here, even audio capture, especially if they are able to get access to a system of a executive or someone that has privileged information. They can enable the audio of the microphone on the system, and then capture what's being discussed. Clipboard data is another interesting one. You copy things to your clipboard, you don't empty it, then that information could be exfiltrated. This can be used to collect things such as passwords. Here are other techniques, and sub techniques.&#x20;
+There are different techniques that are performed here, even audio capture, especially if they are able to get access to a system of an executive or someone that has privileged information. They can enable the audio of the microphone on the system, and then capture what's being discussed. Clipboard data is another interesting one. After copying data to the clipboard, it could be retrieved and exfiltrated. This can be used to collection information such as passwords or the contents of an entire document. Here are other techniques, and sub techniques.&#x20;
 
 ![](../../.gitbook/assets/collection\_techniques.PNG)
