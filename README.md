@@ -10,4 +10,4 @@ coverY: 0
 
 Thank you for participating in this workshop.
 
-The purpose of this workshop is to lay the groundwork for what you're going to be doing, to explain what threat emulation is, and some threat emulation principles. It will all culminate in a workshop where you're going to do hands-on work. You will perform a threat emulation exercise, using an open source tool, called Caldera Mitre that you can use for your own purposes.
+The purpose of this course is to learn about threat emulation, what it is, and how to perform a threat emulation exercise. It will all culminate in an exercise where you're going to perform a threat emulation exercise.
