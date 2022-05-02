@@ -6,8 +6,8 @@ coverY: 0
 
 # Navigating the Att\&ck Matrix - Credential Access
 
-Credential access to the system is where threat actors goal is to obtain account names and passwords. This is done so that they can again, maintain persistence or get access to information to achieve their goal.
+Credential access to the system is where the threat actors goal is to obtain account names and passwords. This is done so that they can again, maintain persistence or get access to information to achieve their goal.
 
-If one system is identified, taken offline, or crashes (as in a general crash), they may lose access into the organization. They're going to try to maintain access to multiple computers. That's another reason they harvest credentials so they can compromise multiple computers and install their malware to maintain access.  However, it depends on their goal.&#x20;
+If one system is identified, taken offline, or crashes (as in a general hardware crash), they may lose access into the organization. They're going to try to maintain access to multiple computers. That's another reason they harvest credentials so they can compromise multiple computers and install their malware to maintain access.  However, it depends on their goal.&#x20;
 
 ![](../../.gitbook/assets/cred\_access.PNG)

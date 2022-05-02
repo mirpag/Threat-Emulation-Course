@@ -6,6 +6,6 @@ coverY: 0
 
 # Navigating the Att\&ck Matrix - Exfiltration
 
-Exfiltration. This is the process after they have collected data. Now they are going to steal it or remove it from the organization. These are the various techniques that are used in order to exfiltrate the data.
+Exfiltration. This is the process where the threat actor steals data from the organization. These are the various techniques that are used in order to exfiltrate the data.  Some ransomware threat actors will use this method to prove to the organization they were in their systems and have the original unencrypted copies of their data.
 
 ![](../../.gitbook/assets/exfiltration1.PNG)

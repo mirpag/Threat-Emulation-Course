@@ -9,7 +9,8 @@ coverY: 0
 * Understand threat emulation
 * Learn threat intelligence helps to drive threat emulation exercises&#x20;
 * Learn the Mitre Att\&ck matrix and its role in threat intelligence and threat emulation&#x20;
-* Create Att\&ck heatmaps Interpret threat intelligence reports
+* Create Att\&ck heatmaps 
+* Interpret threat intelligence reports
 * Use a threat intelligence report to create a threat emulation plan&#x20;
 * Perform a threat emulation exercise using a threat intelligence report&#x20;
 * Evaluate threat detection systems and security control capabilities

@@ -10,6 +10,6 @@ Now, to start off, _what is threat emulation_? Threat emulation, to put it simpl
 
 Threat emulation will help you understand and be able to determine if your monitoring capabilities are able to pick up threat actor behaviors.
 
-You are going to eventually find this as part of your threat emulation and threat intelligence program.&#x20;
+You are likley to find threat emulation an ideal investment in your organization's overall security program.  Also, it is good for continuous learning and professional development with emulating behiavors of threat actors.&#x20;
 
-This is not a workshop that you attend and then go off on your own to test in your own environment. Now, this is a program -a process- that I hope that you will learn to integrate into your organization.
+This is not a course to only read through. You want to engage by working through the threat emulation exercise at the end of the course.  Threat emulation could become a **process** that I hope you will learn to integrate into your organization.

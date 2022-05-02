@@ -6,10 +6,10 @@ coverY: 0
 
 # Navigating the Att\&ck Matrix - Collection
 
-Collection is when they discover information on a system, or get credential access, other methods, and they exfiltrate it out the organization.&#x20;
+Collection is when they discover information on a system, or get credentialed access and they may stage the information in preparation for exfiltration.  Though, the exfiltration can occur via their terminal so they can copy and paste the results.&#x20;
 
 ![](../../.gitbook/assets/collection.PNG)
 
-There are different techniques that are performed here, even audio capture, especially if they are able to get access to a system of an executive or someone that has privileged information. They can enable the audio of the microphone on the system, and then capture what's being discussed. Clipboard data is another interesting one. After copying data to the clipboard, it could be retrieved and exfiltrated. This can be used to collection information such as passwords or the contents of an entire document. Here are other techniques, and sub techniques.&#x20;
+There are different techniques that are performed here, even audio capture, especially if they are able to get access to a system of an executive or someone that has privileged information. They can enable the audio of the microphone on the system, and then capture what's being discussed. Clipboard data is another interesting one. After copying data to the clipboard, it could be retrieved and exfiltrated. This can be used to collect information such as passwords or the contents of an entire document. Here are other techniques, and sub techniques.&#x20;
 
 ![](../../.gitbook/assets/collection\_techniques.PNG)
