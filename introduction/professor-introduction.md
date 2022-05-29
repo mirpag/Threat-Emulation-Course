@@ -14,6 +14,7 @@ coverY: 0
 
 * Associate Professor, Champlain College&#x20;
 * Information Security Northeastern University EdD candidate&#x20;
+* Mitre Att\&ck Adversary Emulation Methodology Certification&#x20;
 * Mitre Att\&ck Cyber Threat Intelligence Certification&#x20;
 * MCSI Threat Intelligence Learner&#x20;
 * Education sector 1997-2001&#x20;
